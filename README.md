@@ -1,4 +1,4 @@
 # Snake Game :snake:
 
-Snake game that I developed mostly using JavaScript
+Snake game that I developed mostly using JavaScript.
 
